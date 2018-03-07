@@ -20,3 +20,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+MT1516 - LOGICGATES/
+
+MT1718 - RECIPESTEPS/
+
+MT1011 - RAILROAD/\.settings/
+
+MT1011 - RAILROAD/\.classpath
+
+MT1011 - RAILROAD/\.project
